@@ -31,5 +31,5 @@ module.exports = {
     }
   },
   plugins: [`@adobe/gatsby-theme-parliament`],
-  pathPrefix: process.env.PATH_PREFIX || '/gatsby-theme-parliament-product'
+  pathPrefix: process.env.PATH_PREFIX || '/dev-site-product-template/'
 };
